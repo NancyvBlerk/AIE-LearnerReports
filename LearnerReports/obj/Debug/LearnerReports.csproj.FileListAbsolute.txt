@@ -1,0 +1,10 @@
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\bin\Debug\LearnerReports.exe.config
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\bin\Debug\LearnerReports.exe
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\bin\Debug\LearnerReports.pdb
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\obj\Debug\LearnerReports.csprojAssemblyReference.cache
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\obj\Debug\LearnerReports.Form1.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\obj\Debug\LearnerReports.ImportReport.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\obj\Debug\LearnerReports.Properties.Resources.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\obj\Debug\LearnerReports.csproj.GenerateResource.cache
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\obj\Debug\LearnerReports.exe
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\LearnerReports\LearnerReports\obj\Debug\LearnerReports.pdb
